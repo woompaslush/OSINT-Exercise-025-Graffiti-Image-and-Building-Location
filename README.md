@@ -3,8 +3,7 @@ A geolocation based OSINT project focused on determining the location of an imag
 
 
 
-**NOTE: I did not take these photos or own the rights for it, these are posted only for educational purposes. All images and websites posted are publicly available.**
-**SECONDARY NOTE: This practice was given from Sofia Santos OSINT Practice Website**
+**NOTE: I did not take these photos or own the rights for it, these are posted only for educational purposes. All images and websites posted are publicly available. This practice was given from Sofia Santos OSINT Practice Website**
 
 
 Objective: Find the location of this unidentified building and graffiti below. 
