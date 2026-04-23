@@ -1,4 +1,4 @@
-# OSINT-Exercise-025-Graffiti-Image-and-Building-Location
+# OSINT-Exercise-025 Image Based Geolocation
 A geolocation based OSINT project focused on determining the location of an image of graffiti on a brick wall. The project involved analyzing visual clues, cross-referencing public data, evaluating validity against misleading/conflicting information. Techniques used include: Collection Planning, Research, Image Search, Google Maps, and Metadata
 
 
