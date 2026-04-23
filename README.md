@@ -51,7 +51,7 @@ This is a sign I need to change my search up.
      <img width="975" height="436" alt="image" src="https://github.com/user-attachments/assets/17c9d5dd-94a6-4516-93fa-a4db1f6caa14" />
 
 4. Google Lens Search (of the newer, more recent photo)
-   - Something promising! A website by an artist named Stephanie Avery. An independent visual artist who sells prints, 3d works, and does murals. This more recent photo comes from her archive collection under the "Ruins" tab. She lists the location as "Abandoned computer factory, Rochester, USA."
+   -  I get the result of A website by an artist named Stephanie Avery. An independent visual artist who sells prints, 3d works, and does murals. This more recent photo comes from her archive collection under the "Ruins" tab. She lists the location as "Abandoned computer factory, Rochester, USA."
    <img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/4034825c-5ba3-4e62-a7d6-9c033ef1205c" />
 
 
@@ -73,17 +73,33 @@ The website says the building is located on Orchard Street, south of Lyell Avenu
 But before I go to google maps I want to verify that it is this exact building where the original photo of the grafitti was taken place.
    
 6.Flickr
-  - Because of my google search of abandoned computer buildings in Rochester, NY, a fkicker account by photographer @Alex Luyckyx also appears. He has a photo album titled "Sykes Datatronics - Rochester, NY" taken from 2009. In it is the exact location of the graffiti image and accompanying photos showing it is in this exact building to verify it. It even includes location data.
+  - Because of my google search of abandoned computer buildings in Rochester, NY, a flicker account by photographer @Alex Luyckx also appears. He has a photo album titled "Sykes Datatronics - Rochester, NY" taken from 2009. In it is the exact location of the graffiti image and accompanying photos showing it is in this exact building to verify it. It even includes location data.
 <img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/f1a13e00-2f6e-4d1b-88bc-d360713bceaf" />
 <img width="476" height="314" alt="image" src="https://github.com/user-attachments/assets/893d6fd4-0d3f-4e22-9ffe-396d2f729530" />
 <img width="975" height="441" alt="image" src="https://github.com/user-attachments/assets/a08413fe-0c03-430e-bbaa-66598fba09af" />
 <img width="975" height="440" alt="image" src="https://github.com/user-attachments/assets/2201cc9b-ffe9-4e2a-bc61-41ae4eb3c43e" />
 
 
+
+For extra verification, I compare additional flickr photos and the surrounding areas on google maps. Credit to @Alex Luyckx
+<img width="728" height="463" alt="image" src="https://github.com/user-attachments/assets/005c5c79-f65a-4142-98d2-d9ceed8b7d22" />
+<img width="1277" height="668" alt="image" src="https://github.com/user-attachments/assets/a8b23d44-df9f-4bff-82d2-a01fd917c282" />
+
+
+
+
+<img width="704" height="464" alt="image" src="https://github.com/user-attachments/assets/0291e691-066a-49e2-ade6-1af806f37206" />
+<img width="975" height="605" alt="image" src="https://github.com/user-attachments/assets/8cd33506-c6bb-4604-8c75-491f7622bff6" />
+
+
+
 7. Google Maps and Final Location
    - I search up Orchard Street in Rochester, NY, USA. And Just south of Lyell Avenue is an empty spot. Just where the building used to be. 
 <img width="975" height="555" alt="image" src="https://github.com/user-attachments/assets/30f99529-1afa-4e96-9586-0e4ea60b3e1e" />
 <img width="825" height="468" alt="image" src="https://github.com/user-attachments/assets/ce8f5977-6cd4-42fe-9da4-edafe8ce9653" />
+
+
+
 
 
 
