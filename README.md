@@ -18,8 +18,13 @@ A quick examination of the image shows a deteriorated building. Most likely aban
 
 ## 3. Processing 
 
+**Checking for Exif Data**
+- A quick check for exif data such as GPS latitute and longitude, date, and time are not available. In fact, no metadata was available.
+  <img width="842" height="671" alt="image" src="https://github.com/user-attachments/assets/d5012b3e-59f3-46a8-b045-8c7e60f7de5c" />
+
+
 **Google Lens Search**
-   - A quick Google Lens search shows two different websites with this exact image posted.
+   - The next course of action is a Google Lens search, which shows two different websites with this exact image posted.
      
      • First, as a banner on an anonymous blogpost:
      
